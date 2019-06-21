@@ -1,7 +1,7 @@
 [package]
 name = "url_rs"
 version = "0.1.0"
-authors = ["fs_suzuki <masaya.suzuki@isp21.co.jp>"]
+authors = ["doberankei <doberankei@gmail.com>"]
 edition = "2018"
 
 [dependencies]
