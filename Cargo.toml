@@ -1,0 +1,10 @@
+[package]
+name = "url_rs"
+version = "0.1.0"
+authors = ["fs_suzuki <masaya.suzuki@isp21.co.jp>"]
+edition = "2018"
+
+[dependencies]
+url = "1.7"
+failure = "0.1"
+structopt = "0.2"
